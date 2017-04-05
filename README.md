@@ -1,0 +1,2 @@
+# WasteSort
+Hack Davis Project
