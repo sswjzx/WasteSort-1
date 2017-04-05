@@ -9,4 +9,5 @@ We created a tensor flow environment on raspberry pi which displayed the outputs
 
 # Files
 Switch.py - Interfaces with Raspberry Pi 3 GPIO pins to trigger inputs and outputs to the embedded system (LEDS and Sensors in this case)
+
 label_image.py - Runs the retrained version of Google's Inception to detect objects.
